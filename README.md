@@ -6,8 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vivek kushwah" target="blank"><img align="center" src="https://www.linkedin.com/in/vivek-kushwah-934704237/" alt="vivek kushwah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vivek" target="blank"><img align="center" src="https://leetcode.com/hellowol646/" alt="vivek" height="30" width="40" /></a>
+<a href="https://twitter.com/vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kushwah" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

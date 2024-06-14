@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kushwahvivek805@@gmail.com**
 
-- 🔭 Visit my <a href=""><strong>portfolio</strong></a>
+- 🔭 Visit my <a href=""><strong>https://vermillion-croissant-aa8666.netlify.app/</strong></a>
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**
 
@@ -33,7 +33,6 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-kushwah-934704237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
-<a href="https://instagram.com/a_aakarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aakarsh" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -51,9 +50,7 @@
 <img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
 <br/>
 <br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
+
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 

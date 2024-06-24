@@ -105,7 +105,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
         <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000"/>
          <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000"/>
           <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
-           <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
+           <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"/>
             <img src="https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000"/>
             <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
             <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>

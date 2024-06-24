@@ -92,24 +92,26 @@
 <img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <div align items="left">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
+<!--   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/>  <img 
   src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
-   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-   <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
-   <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>  -->
+   <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+     <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000"/>
+      <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000"/>
+        <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000"/>
+         <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000"/>
+          <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
+           <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
+            <img src="https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000"/>
+            <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+            <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
+            <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"/>
+           
+   
 </div>
 
 <h2 align="center">My Contribution Streak 🌟🔥</h2>

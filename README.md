@@ -183,10 +183,8 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 ---
 <!--
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
-<p>Do you know why your Android app screen is lagging while using it, Here we found out the reason and resolution to fix those issues at the client-end.
-https://medium.com/@mugdha2hazra/521c74a964da
-Author By 
-@mugdha.hazra</p>
+<p>The function Runner.prototype.gameOver is a good place to start because it's called when the game is over. By overriding this function,
+you can prevent the game from ending and instead make the dinosaur jump at the right moments @Vivek kushwah.</p>
 
 <table>
  <!-- <tr>

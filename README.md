@@ -114,44 +114,12 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    
 </div>
 
-<h2 align="center">My Contribution Streak 🌟🔥</h2>
 
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-   </a>
-</p>
 
-## Some Cosmic Facts 😄:
-
-<table>
-   <tr>
-      <td>
-         <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
-      </td>
-      <td rowspan=2>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username-cadet-vivek&theme=dark" align="center"/> 
-<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
-      </td>
-   </tr>
-<!--    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
-      <td><img src="https://github-readme-stats.vercel.app/api?cadetvivek-Hazra&count_private=true&theme=dark&show_icons=true" align="center"/></td>
-   </tr>
-</table>
 <br/>
 
-## 💻 My Galactic Achievements 🥇
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='45' height='45'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='45' height='45'></a> 
-<!--<img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mugdha-Hazra&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-## 💻 My Swagss And Goodies 🎁⭐
-/
+
+
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)   -->
 
 
@@ -257,7 +225,3 @@ for dino game
 ### Show some ❤️ by starring some of the repositories!
 
 -->
-## ⏫ My Holopin board 🚡 
-
-[![@mugdha's Holopin board](https://holopin.me/mugdha)](https://holopin.io/@mugdha)
-

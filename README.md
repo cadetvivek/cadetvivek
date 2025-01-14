@@ -16,8 +16,10 @@
 </h3>
    I am a full stack web developer I have complete this course from sharpener. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
    
+
 ## 📐 Activity Graph
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Kushwah&theme=tokyo-night)](https://github.com/euclidstellar/github-readme-activity-graph)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cadetvivek&theme=tokyo-night)](https://github.com/cadetvivek/github-readme-activity-graph)
+
  
 ## About Me (In a Nebula) ~
 

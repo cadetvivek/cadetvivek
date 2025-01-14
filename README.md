@@ -39,27 +39,15 @@
    </a>
  <p align="center">
    <a>
-<!-- <img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/> -->
-<!-- <img align="center" height="150" width="150" align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
+
  </a>
  </p>
  </p>
-<!--<h2 align='center'><i><a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mugdha-Hazra&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a> -->
 
-
-<!-- <a href="https://github.com/cadetvivek/github-readme-activity-graph#gh-dark-mode-only">
-<!--  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cadet vivek&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%"> -->
 </a> -->
 </p>
   
- <!-- ## 💻 My Contribution Constellation
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugdha-Hazra&theme=vue)
-   ![](https://activity-graph.herokuapp.com/graph?username=cadet-vivek&theme=dracula&hide_border=true&area=true)-->
+
    <br/>
    
   ## 📲 Connect with me on social cosmic platforms
@@ -84,22 +72,14 @@
     <a target="_blank"href="https://github.com/cadetvivek"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a href="https://x.com/vivek_6466"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a target="_blank"href="https://www.linkedin.com/in/vivek-kushwah-934704237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<!--    <a target="_blank"href="https://www.facebook.com/mugdha.hazra.5/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a target="_blank"href="https://www.instagram.com/mugdha4455/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a href="https://medium.com/@mugdha2hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugdha2hazra" height="30" width="40" /></a> -->
-   <!-- ---------------------------------------------------------------- -->
+
 </p>
 
 ## 💻 Crafting with Cosmic Tools and Languages
 <img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <div align items="left">
-<!--   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="40" height="40"/> <img 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/>  <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>  -->
+
    <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"/>
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
      <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000"/>
@@ -121,28 +101,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 <br/>
 
 
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)   -->
-
-
-<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
-<!-- <h2 align="center">My Contribution Streak !! :fire:</h2>  -->
-
-<!-- <p align="center">
-  <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-  </a>
-</p> -->
-<!-- <p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-</p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra&label=Profile%20views&color=0e75b6&style=flat" alt="Mugdha-Hazra" /> </p>
-<!--![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  -->
-
 
 ### ✍️ Random Dev Quote
 
@@ -151,16 +110,12 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!--
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
+
 <p>The function Runner.prototype.gameOver is a good place to start because it's called when the game is over. By overriding this function,
 you can prevent the game from ending and instead make the dinosaur jump at the right moments @Vivek kushwah.</p>
 
 <table>
- <!-- <tr>
-    <td><h3>You are Visitor No.: </h3></td>
-    <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="45" /></td>
-  </tr> -->
+
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
 ----------------------------------------
@@ -178,9 +133,7 @@ you can prevent the game from ending and instead make the dinosaur jump at the r
 <div align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
-<!-- adding goru(cow)(handmade cow)-->
-<!--
-For adding portfolio.
+
 
 ### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
 for dino game
@@ -193,37 +146,3 @@ for dino game
 <br>
   
 
-<!--
-<h3 align="Center">Recent Repos:</h3>  
-<br />
-
-<p  align="center">
-  <a href="https://github.com/swagatobag2000/digit-recognition-mobileapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=digit-recognition-mobileapp&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/digit-recognition-webapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=digit-recognition-webapp&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/sb_utility_library">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=sb_utility_library&theme=dark" />
-  </a>
-  <a href="https://github.com/swagatobag2000/python-telegram-bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=python-telegram-bot&theme=dark&" />
-  </a>
-  <a href="https://github.com/swagatobag2000/Tic-Tac-Toe-Game">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=Tic-Tac-Toe-Game&theme=dark&" />
-  </a>
-</p>
-
-<div align="center">
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-[![@mugdha's Holopin board](https://holopin.me/mugdha)](https://holopin.io/@mugdha)
-
-### Show some ❤️ by starring some of the repositories!
-
--->

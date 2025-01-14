@@ -135,7 +135,7 @@ you can prevent the game from ending and instead make the dinosaur jump at the r
 </div>
 
 
-### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
+### Visit my detailed [profile](https://www.linkedin.com/in/vivek-kushwah-934704237/)
 for dino game
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
 -->

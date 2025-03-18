@@ -12,9 +12,9 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Welcome to My Planet! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /></h1>
  
 <h3 align="center"> 
-🧋 I am Vivek kushwah, a passionate web development and an enthusiastic Open Source contributor, crafting digital marvels. 🌟 Connect with me on this cosmic journey through code! 🚀
+🧋 I am Vivek kushwah, a passionate web development, and an enthusiastic Open Source contributor, crafting digital marvels. 🌟 Connect with me on this cosmic journey through code! 🚀
 </h3>
-   I am a full stack web developer I have complete this course from sharpener. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+   I am a full-stack web developer I have completed this course from Masai School. I am a keen learner and love gathering knowledge about new things, and technologies and improving my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
    
 
 ## 📐 Activity Graph

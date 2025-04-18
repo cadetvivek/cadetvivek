@@ -3,7 +3,7 @@
    <a>
  
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" height="150" width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY3NHcxenQzZmtteXBzamFzczFrYjZoc2F3anp2bGxvaWNkMzBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QpnSwLwr9fkDtiN4m/giphy.gif"/>
+<!--     <img align="center" height="150" width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY3NHcxenQzZmtteXBzamFzczFrYjZoc2F3anp2bGxvaWNkMzBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QpnSwLwr9fkDtiN4m/giphy.gif"/> -->
       <img align="center" height="150" width="150" src="https://avatars.githubusercontent.com/u/106858243?v=4"/>
    <!-- <img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
